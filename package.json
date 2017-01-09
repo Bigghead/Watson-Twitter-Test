@@ -1,0 +1,26 @@
+{
+  "name": "watson-twitter-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bigghead/Watson-Twitter-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bigghead/Watson-Twitter-Test/issues"
+  },
+  "homepage": "https://github.com/Bigghead/Watson-Twitter-Test#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.6",
+    "twitter": "^1.7.0"
+  }
+}
